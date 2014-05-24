@@ -1,6 +1,8 @@
 # Bridge Pattern 
 
-## Example
+## Explanation
 
-## Link
+## Examples
+
+## Links
 http://en.wikipedia.org/wiki/Bridge_pattern
