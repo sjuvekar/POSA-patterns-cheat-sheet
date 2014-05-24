@@ -1,6 +1,8 @@
 # Guarded Suspension Pattern
 
-## Example
+## Explanation
+
+## Examples
 
 ## Link
 http://en.wikipedia.org/wiki/Guarded_suspension
